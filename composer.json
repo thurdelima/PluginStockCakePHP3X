@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/Stock",
+    "name": "thurdelima/PluginStockCakePHP3X",
     "description": "Stock plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
