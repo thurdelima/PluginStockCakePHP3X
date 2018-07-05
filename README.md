@@ -12,8 +12,13 @@ composer require thurdelima/PluginStockCakePHP3X
 
 Update your config/bootstrap.php.
 
+```
 Plugin::load('Stock', ['bootstrap' => false, 'routes' => true]);
+```
+
 Run migrations
 
+```
 bin/cake migrations migrate --plugin Stock
 bin/cake migrations migrate --plugin Stock
+```
